@@ -1,6 +1,8 @@
 ## Youttube Keyword crawling
+- async crawling with python
 
 ## usage
+- make dictionary keywords in main.py
 - virtualenv .venv -p python3
 - . .venv/bin/activate 
 - pip install -r requirements.txt
